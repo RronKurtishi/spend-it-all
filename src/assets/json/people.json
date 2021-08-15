@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Bernard Arnault & family",
+    "money": 201600000000,
+    "description": "LVMH major shareholders. If something sounds luxurious, Arnault family owns it."
+  },
+  {
+    "name": "Jeff Bezos",
+    "money": 190700000000,
+    "description": "CEO, entrepreneur, born in 1964, Jeffrey, Jeffrey Bezos.",
+    "rating": 1
+  },
+  {
+    "name": "Elon Musk",
+    "money": 186800000000,
+    "description": "Known for being CEO of Tesla and SpaceX, and for shilling shitcoins."
+  },
+  {
+    "name": "Bill Gates",
+    "money": 130800000000,
+    "description": "Known for founding Microsoft and for planting chips in people."
+  },
+  {
+    "name": "Mark Zuckerberg",
+    "money": 130600000000,
+    "description": "0101011001100101011100100111100100100000011011100110111101110010011011010110000101101100001000000110100001110101011011010110000101101110"
+  },
+  {
+    "name": "Larry Page",
+    "money": 118300000000,
+    "description": "Google co-founder, not so good developer."
+  },
+  {
+    "name": "Larry Ellison",
+    "money": 117500000000,
+    "description": "Known for co-founding Oracle and for hating open source."
+  },
+  {
+    "name": "Sergey Brin",
+    "money": 114200000000,
+    "description": "The other guy from Google"
+  },
+  {
+    "name": "Warren Buffet",
+    "money": 104400000000,
+    "description": "Known for loving money and hating crypto."
+  },
+  {
+    "name": "Francoise Bettencourt Meyers & family",
+    "money": 93500000000,
+    "description": "Majority shareholder at L'Oréal. L'Oréal is partially owned by Nestle so... /r/FuckNestle"
+  },
+  {
+    "name": "Rron Kurtishi",
+    "money": 420,
+    "description": "Known for developing this site."
+  }
+]

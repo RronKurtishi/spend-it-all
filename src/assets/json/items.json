@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Big Mac Meal",
+    "description": "",
+    "price": 5.99,
+    "imagePath": "bigmac.jpg"
+  },
+    {
+    "name": "An ounce of really good weed",
+    "description": "Like, really good",
+    "price": 300,
+    "imagePath": "weed.jpg"
+  },
+  {
+    "name": "Iphone 12 Pro Max 512GB",
+    "description": "",
+    "price": 1399,
+    "imagePath": "iphone.jpg"
+  },
+  {
+    "name": "2021 Toyota Camry TRD",
+    "description": "Top-of-the-line trim",
+    "price": 32185,
+    "imagePath": "camry.jpg"
+  },
+  {
+    "name": "8Pack OrionX",
+    "description": "Most expensive desktop PC in the world",
+    "price": 41519,
+    "imagePath": "orionx.jpg"
+  },
+  {
+    "name": "Samsung 'The Wall' 292\" TV",
+    "description": "Biggest and most expensive TV in the world",
+    "price": 100000,
+    "imagePath": "thewall.jpg"
+  },
+  {
+    "name": "Tesla Model S P100D",
+    "description": "",
+    "price": 162000,
+    "imagePath": "models"
+  },
+  {
+    "name": "Ferrari SF90 Stradale",
+    "description": "",
+    "price": 500000,
+    "imagePath": "sf90.jpg"
+  },
+  {
+    "name": "2022 Lamborghini Countach",
+    "description": "Hybrid",
+    "price": 2640000,
+    "imagePath": "countach.jpg"
+  },
+  {
+    "name": "Samsung 'The Wall' 292\" TV",
+    "description": "",
+    "price": 100000,
+    "imagePath": ""
+  },
+  {
+    "name": "Samsung 'The Wall' 292\" TV",
+    "description": "",
+    "price": 100000,
+    "imagePath": ""
+  },
+  {
+    "name": "Bugatti La Voiture Noire",
+    "description": "1 of 1",
+    "price": 18905235,
+    "imagePath": ""
+  },
+  {
+    "name": "Mansion",
+    "description": "",
+    "price": 30000000,
+    "imagePath": "mansion.jpeg"
+  },
+  {
+    "name": "F-22 Raptor",
+    "description": "",
+    "price": 150000000,
+    "imagePath": "f22.jpeg"
+  },
+  {
+    "name": "Mega Mansion",
+    "description": "",
+    "price": 225000000,
+    "imagePath": "megamansion.jpg"
+  },
+  {
+    "name": "Airbus A380 Superjumbo Jet",
+    "description": "",
+    "price": 500000000,
+    "imagePath": "a380.jpeg"
+  },
+  {
+    "name": "Go to space for 4 minutes",
+    "description": "Build a spaceship and go to space.",
+    "price": 5500000000,
+    "imagePath": ""
+  }
+]
