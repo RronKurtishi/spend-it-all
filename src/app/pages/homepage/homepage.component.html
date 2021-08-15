@@ -1,0 +1,12 @@
+<div *ngFor="let person of people">
+  <h5>{{ person.name }}</h5>
+  <p>{{ person.description }}</p>
+  <h4>{{ person.money }}</h4>
+</div>
+
+<div *ngFor="let item of items">
+  {{ item.name }}
+  {{ item.description }}
+  {{ item.value }}
+  <img src="/assets/images/{{ item.imagePath }}" height=50 alt="">
+</div>
